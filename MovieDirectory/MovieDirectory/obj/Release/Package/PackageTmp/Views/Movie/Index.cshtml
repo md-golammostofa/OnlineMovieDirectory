@@ -1,0 +1,101 @@
+﻿@model IEnumerable<MovieDirectory.Models.Movie>
+
+@{
+    ViewBag.Title = "Movie";
+}
+
+
+
+<div class="container body-content">
+    <details class="alert-success mb-4 wow zoomIn" data-wow-delay="1s">
+        <summary class="mb-2">Get started</summary>
+        <div id="details_inside">
+            <ul>
+                <li>You need to login to edit or delete any item.</li>
+            </ul>
+        </div>
+    </details>
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="text-center prmCol font-weight-bolder">Movie List</h3>
+            <div class="text-right mb-2">
+                <a class="btn btn-success btn-sm" href="@Url.Action("Create", "Movie")"><i class="fa fa-plus"></i> Add New Movie</a>
+            </div>
+            <table id="example" class="table table-bordered table-responsive-md table-responsive-sm table-responsive-lg">
+                <thead class="thead-movie">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Genre.GenreName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MovieName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Origin)
+                        </th>
+                        <th class="text-center">
+                            @Html.DisplayNameFor(model => model.ReleaseYear)
+                        </th>
+                        <th class="text-center">
+                            @Html.DisplayNameFor(model => model.Rating)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Profit)
+                        </th>
+                        <th class="text-center">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Genre.GenreName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MovieName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Origin)
+                            </td>
+                            <td class="text-center">
+                                @Html.DisplayFor(modelItem => item.ReleaseYear)
+                            </td>
+                            <td class="text-center">
+                                @Html.DisplayFor(modelItem => item.Rating)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Profit)
+                            </td>
+                            <td class="text-center">
+                                <a class="mr-sm-1" href="@Url.Action("Edit", "Movie", new { id = item.MovieId })" title="Edit" style="font-size:1.4em"><i class="fa fa-edit"></i></a>
+                                <a class="text-danger" href="@Url.Action("Delete", "Movie", new { id = item.MovieId })" title="Edit" style="font-size:1.4em"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts{
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable({
+                "ordering": true,
+                "pagingType": "simple_numbers",
+                responsive: true,
+                'columnDefs': [{
+                    'targets': [6],
+                    'orderable': false,
+                }]
+            });
+
+        });
+    </script>
+}

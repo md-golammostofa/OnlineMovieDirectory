@@ -1,0 +1,116 @@
+﻿@model MovieDirectory.ViewModel.MovieIndexVM
+
+@{
+    ViewBag.Title = "Genre";
+}
+
+
+<div class="container body-content">
+
+    <details class="alert-success mb-4 wow zoomIn" data-wow-delay="1s">
+        <summary class="mb-2">Get started</summary>
+        <div id="details_inside">
+            <ul>
+                <li>Select a Genre to view related Movie details.</li>
+                <li>You need to login to edit or delete any item.</li>
+            </ul>
+        </div>
+    </details>
+    <div class="row">
+        <div class="col-md-12" style="margin-bottom:20px;">
+            <h3 class="text-center prmCol font-weight-bolder">Genre List</h3>
+            <div class="text-right mb-2">
+                <a class="btn btn-success btn-sm" href="@Url.Action("Create", "Genre")"><i class="fa fa-plus"></i> Add New Genre</a>
+            </div>
+            <table id="genre" class="table table-bordered table-responsive-md table-responsive-sm table-responsive-lg">
+                <thead class="thead-movie">
+                    <tr>
+                        <th>Details View</th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.SelectedGenre.GenreName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.SelectedGenre.Description)
+                        </th>
+                        <th class="text-center">Total Movies</th>
+                        <th class="text-center">Action</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var g in Model.Genres)
+                    {
+                        <tr>
+                            <td>
+                                @*<a class="" data-toggle="modal" data-target="#exampleModalCenter" href="@Ajax.ActionLink("MovieList", "Genre", new { id = g.GenreId }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "MoviebyGenre", HttpMethod = "POST" })">Select</a>*@
+                                @Ajax.ActionLink("Select", "MovieList", "Genre", new { id = g.GenreId }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "MoviebyGenre", HttpMethod = "POST" }, new { @class = "", data_toggle = "modal", data_target = "#exampleModalCenter" })
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => g.GenreName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => g.Description)
+                            </td>
+                            <td class="text-center">@g.Movies.Count</td>
+                            <td class="text-center">
+                                <a class="mr-sm-1" href="@Url.Action("Edit", "Genre", new { id = g.GenreId })" title="Edit" style="font-size:1.4em"><i class="fa fa-edit"></i></a>
+                                <a class="text-danger" href="@Url.Action("Delete", "Genre", new { id = g.GenreId })" title="Edit" style="font-size:1.4em"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+        @*@if (Model.SelectedGenre != null)
+            {
+
+                @Html.Action("MovieList", new { id = Model.SelectedGenre.GenreId })
+            }*@
+
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title prmCol" id="exampleModalLongTitle">Genre List</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body" id="MoviebyGenre">
+                        @if (Model.SelectedGenre != null)
+                        {
+
+                            @Html.ActionLink("MovieList", "Genre", new { id = Model.SelectedGenre.GenreId }, new { @class = "modal-body" })
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section styles{
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+}
+
+@section scripts{
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#genre').DataTable({
+                "pagingType": "simple_numbers",
+                "lengthMenu": [5, 10, 25, 50],
+                responsive: true,
+                "columnDefs": [{
+                    "targets": [0, 4],
+                    "orderable": false
+                }]
+            });
+            $('.dataTables_length').addClass('bs-select');
+
+        });
+    </script>
+}

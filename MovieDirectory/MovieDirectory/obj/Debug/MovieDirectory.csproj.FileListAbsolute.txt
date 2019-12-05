@@ -1,0 +1,945 @@
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Owin.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+D:\Practice\ProjectReady\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Owin.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+D:\Practice\Project 08\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Owin.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+D:\Evedence 08\Project\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Owin.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+G:\MD SHOHIDUL ISLAM\M 8 mvc\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Owin.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+G:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Owin.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+J:\All Projects_39\1_1246426 Sharif Ullah\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\MovieDirectory.dll.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\MovieDirectory.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\MovieDirectory.pdb
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csc.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csc.exe.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csc.rsp
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csi.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csi.exe.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\csi.rsp
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.AppContext.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Console.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\vbc.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\vbc.exe.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\vbc.rsp
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Antlr3.Runtime.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\EntityFramework.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\EntityFramework.SqlServer.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Newtonsoft.Json.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Owin.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Helpers.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Mvc.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Optimization.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Razor.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\WebGrease.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Helpers.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Mvc.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Optimization.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.Razor.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Newtonsoft.Json.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Antlr3.Runtime.pdb
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\EntityFramework.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\EntityFramework.SqlServer.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\08_Projects(MVC)\Ex_08_Projects\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\MovieDirectory.dll.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\MovieDirectory.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\MovieDirectory.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csc.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csc.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csc.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csi.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csi.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\csi.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.AppContext.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Console.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\vbc.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\vbc.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\vbc.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Antlr3.Runtime.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\EntityFramework.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\EntityFramework.SqlServer.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Newtonsoft.Json.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Helpers.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Mvc.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Optimization.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Razor.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\WebGrease.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Helpers.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Mvc.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Optimization.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.Razor.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Newtonsoft.Json.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Antlr3.Runtime.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\EntityFramework.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\EntityFramework.SqlServer.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\9_Mostafa\MovieDirectory\obj\Debug\MovieDirectory.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\MovieDirectory.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\MovieDirectory.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csc.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csc.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csi.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\csi.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.AppContext.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Console.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Compression.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Claims.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.ValueTuple.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\vbc.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\vbc.rsp
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\EntityFramework.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Owin.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Razor.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\WebGrease.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Helpers.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Mvc.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Optimization.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.Razor.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Newtonsoft.Json.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Antlr3.Runtime.pdb
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\EntityFramework.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\EntityFramework.SqlServer.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csprojAssemblyReference.cache
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.csproj.CopyComplete
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.dll
+C:\Users\Md. Golam Mostofa\Desktop\All\MVC\MovieDirectory\MovieDirectory\obj\Debug\MovieDirectory.pdb

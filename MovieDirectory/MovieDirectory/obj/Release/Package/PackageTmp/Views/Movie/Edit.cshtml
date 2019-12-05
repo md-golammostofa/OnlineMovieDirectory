@@ -1,0 +1,73 @@
+﻿@model MovieDirectory.Models.Movie
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="prmCol mb-4">Insert new Movie</h4>
+            @using (Html.BeginForm())
+            {
+                @Html.HiddenFor(x => x.MovieId)
+                @Html.AntiForgeryToken()
+                <div class="form-horizontal">
+                    <div class="form-group text-secondary">
+                        @Html.ValidationSummary()
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.MovieName, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.MovieName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.MovieName, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Genre.GenreName, new { @class = "control-label col-md-2" })
+                        @Html.DropDownListFor(x => x.GenreId, new SelectList(Model.GenreCollection, "GenreId", "GenreName"), new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Genre.GenreName, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Origin, new { @class = "control-label col-md-2" })
+                        @Html.EnumDropDownListFor(x => x.Origin, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Origin, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.ReleaseYear, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.ReleaseYear, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.ReleaseYear, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Rating, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.Rating, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Rating, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Budget, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.Budget, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Budget, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Gross, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.Gross, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Gross, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-md-2">
+                            @Html.ActionLink("Back to List", "Index")
+                        </div>
+                        <div class="col-md-offset-2">
+                            <button type="submit" class="btn btn-primary">Update</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+}

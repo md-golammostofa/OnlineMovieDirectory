@@ -1,0 +1,47 @@
+﻿@model MovieDirectory.Models.Genre
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="prmCol mb-4">Insert new Genre</h4>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="form-horizontal">
+                    <div class="form-group text-secondary">
+                        @Html.ValidationSummary()
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.GenreName, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.GenreName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.GenreName, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+                    <div class="form-group row">
+                        @Html.LabelFor(x => x.Description, new { @class = "control-label col-md-2" })
+                        @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Description, "", new { @class = "text-danger col-md-offset-2" })
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-md-2">
+                            @Html.ActionLink("Back to List", "Index")
+                        </div>
+                        <div class="col-md-offset-2">
+                            <button type="submit" class="btn btn-primary btn-block">Save</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+}

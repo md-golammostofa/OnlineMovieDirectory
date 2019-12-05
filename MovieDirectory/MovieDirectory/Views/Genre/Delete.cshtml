@@ -1,0 +1,38 @@
+﻿@model MovieDirectory.Models.Genre
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="container body-content" style="margin-bottom:200px;">
+    <h4 class="mb-4 prmCol">Confirm Delete</h4>
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table table-bordered table-sm">
+                <tr>
+                    <th width="150px">@Html.LabelFor(x => x.GenreName)</th>
+                    <td>@Model.GenreName</td>
+                </tr>
+                <tr>
+                    <th>@Html.LabelFor(x => x.Description)</th>
+                    <td>@Model.Description</td>
+                </tr>
+                
+                <tr>
+                    <th>@Html.ActionLink("Back to list", "Index", "Home")</th>
+                    <td>
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.HiddenFor(x => x.GenreId)
+                            <button type="submit" class="btn btn-danger btn-sm">Delete Confirm</button>
+                        }
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-6">
+            <h4 class="mb-4">This Action Can't be Undo</h4>
+            <p>Please double check before delete items. This action can't be undo and all of your deleted data will be lost parmanently.</p>
+        </div>
+    </div>
+</div>

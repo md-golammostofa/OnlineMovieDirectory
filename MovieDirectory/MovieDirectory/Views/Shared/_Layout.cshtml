@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - MovieLog</title>
+    <link rel='icon' href='~/Image/movielog.png' type='image/x-icon' />
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/animate.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/media/css/jquery.dataTables.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/media/css/dataTables.bootstrap4.css" rel="stylesheet" />
+
+
+    @RenderSection("styles", false)
+</head>
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar">
+        <div class="container">
+            @Html.ActionLink("MovieLOG", "Index", "Home", new { area = "" }, new { @class = "navbar-brand font-weight-bolder zoomIn wow logo" })
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="nav navbar-nav">
+                    <li class="nav-item">@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link active" })</li>
+                    <li class="nav-item">@Html.ActionLink("Genre", "Index", "Genre", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Movie", "Index", "Movie", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </nav>
+
+    <div class="page landing-page">
+        @RenderBody()
+    </div>
+    <footer class="page-footer dark">
+        <div class="text-light text-center">
+            <p>All Right Reserved <strong>Golam Mostofa</strong></p>
+        </div>
+        <div class="footer-copyright">
+            <p>© @DateTime.Now.Year MovieLog APP | A Movie Directory</p>
+        </div>
+    </footer>
+
+
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/DataTables/media/js/jquery.dataTables.js"></script>
+    <script src="~/Scripts/DataTables/media/js/dataTables.bootstrap4.js"></script>
+    <script src="~/Scripts/wow.js"></script>
+    <script src="~/Scripts/main.js"></script>
+
+    @RenderSection("scripts", false)
+
+
+</body>
+</html>
